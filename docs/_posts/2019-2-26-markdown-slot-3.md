@@ -16,3 +16,7 @@ As of this writing, almost half a million people have signed an online petition 
 ## Praise for China
 
 As the number of confirmed COVID-19 cases jumped ten folds from 45 on 17 January to more than 500 cases on 23 January, China announced the shutdown of Wuhan. By this time, many health experts have raised an alarm of a possible global outbreak but members of the emergency committee of the WHO were split on this issue. During a press conference, Tedros stated that there was no need to declare a public health emergency of international concern (PHEIC).
+
+||heading 1||heading 2||heading 3||
+|cell A1|cell A2|cell A3|
+|cell B1|cell B2|cell B3|

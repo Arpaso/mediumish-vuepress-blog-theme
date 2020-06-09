@@ -1,6 +1,6 @@
 ---
-title: World Health Organization officials criticized for slow response
-date: 2019-2-26
+title: World Health Organization officials criticized for slow response (updated)
+date: 2019-02-25 23:00:00 +0000
 tags:
 - markdown
 - vuepress
